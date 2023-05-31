@@ -1,5 +1,5 @@
 module.exports = {
-	"undefined": "localhost/petes-pets",
-	"dev": "localhost/petes-pets",
-	"prod": "localhost/petes-pets"
+	"undefined": "localhost/LOCAL_DB_NAME",
+	"dev": "localhost/DEV_DB_NAME",
+	"prod": "localhost/PROD_DB_NAME"
 }
